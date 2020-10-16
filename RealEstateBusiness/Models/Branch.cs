@@ -7,5 +7,6 @@ namespace RealEstateBusiness.Models
 {
     public class Branch
     {
+
     }
 }
